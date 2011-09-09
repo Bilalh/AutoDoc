@@ -19,7 +19,8 @@ Install
 
 Notes
 -----
-`document_c_with_stars_textmate.rb` can be used a snippet.  Use it by selecting the function declaration and pressing the shortcut key
+* `document_c_with_stars_textmate.rb` can be used a snippet.  Use it by selecting the function declaration and pressing the shortcut key
+* from [Scripts](https://github.com/Bilalh/Scripts "https://github.com/Bilalh/Scripts")
 
 Issues
 ------
